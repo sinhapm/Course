@@ -1,9 +1,8 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Name: Prashant Mohan Sinha
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Module Name: Exploratory Data Analysis
+
+Key Understanding: Before start of the project, we need to first divulge into the various data sources of public or private access.
+Private data isn't to get and public data may be huge but isn't always relevant.
+The data may need to be formatted and perform the necessary cleaning. 
+Data set whether categorical or continuous set can reveal much of insight by analysing set or subset of it via univariate, bivariate analysis method.
